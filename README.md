@@ -1,4 +1,4 @@
 # rs-log
-Daily Generated Relative Strength Stocks Output 
+Daily generated Relative Strength stocks output for use in OpenBB_Terminal 
 
-Main repository: https://github.com/skyte/relative-strength
+Forked from https://github.com/skyte/relative-strength
